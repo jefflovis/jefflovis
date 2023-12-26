@@ -1,7 +1,7 @@
 ### Olá meu nome é Jefferson Lovis 👋
-Aluno de pós-graduação da Residência em Robótica e Inteligência Artificial - Projeto CIn-Softex.
+Desenvolvedor, Designer e Analista de Testes e Qualidade de Software (QA).
 
-- 🌱 Atualmente estou estudando Python, com foco na minha especialização em Robótica e IA.
+- 🌱 Atualmente estou estudando Python, Java e JavaScript para front-end. Tenho focado meu aprendizado na área de desenvolvimento e Teste de Software.
 - 😄 Pronomes: ele/dele
 
 <div>
